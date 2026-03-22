@@ -15,7 +15,7 @@
 ## Installation
 ## Clone the repository:
 
-## git clone https://github.com/yourusername/GAN_with_Paired_Images.git
+## git clone https://github.com/shrehs/GAN_with_Paired_Images.git
 ## cd GAN_with_Paired_Images
 
 ## Install dependencies:
